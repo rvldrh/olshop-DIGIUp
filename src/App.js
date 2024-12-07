@@ -4,6 +4,9 @@ import { Home } from './components/home';
 import { Detail } from './components/detail';
 import { Cart } from './components/cart';
 import { Checkout } from './components/checkout';
+import { Header } from './components/header';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 const App = () => {
   return (
